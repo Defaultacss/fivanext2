@@ -1,0 +1,14 @@
+.ContactButton {
+  /* color: white;
+  background-color: rgba(27, 12, 39, 255); */
+  color: white;
+  width: 50%;
+  height: 50px;
+  border-radius: 22px;
+  background-color: #32005a;
+  font-weight: bolder;
+}
+
+.ContactButton:hover {
+  background-color: #43007a;
+}

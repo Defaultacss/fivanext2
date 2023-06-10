@@ -1,0 +1,54 @@
+#navigation {
+  /* background-color: rgba(27, 12, 39, 255); */
+
+  background-color: rgb(40, 18, 58);
+  font-family: sans-serif;
+  min-height: 10vh;
+}
+
+#info {
+  margin-left: 29%;
+}
+
+#fontSizeContainer {
+  font-size: larger;
+}
+
+.butonLog {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.coloredFiva {
+  color: rgba(27, 12, 39, 255);
+}
+
+.spaceLink {
+  padding: 0.5rem 1rem 0.5rem;
+}
+
+#link {
+  color: rgb(132, 125, 137);
+}
+
+#link:hover {
+  color: rgb(222, 218, 226);
+}
+
+@media screen and (max-width: 990px) {
+  .contactForm {
+    display: none;
+  }
+
+  #info {
+    margin-left: 0%;
+  }
+
+  .butonLog-service {
+    margin-left: 4%;
+  }
+
+  #link {
+    color: rgb(132, 125, 137);
+    padding-left: 3.5%;
+  }
+}

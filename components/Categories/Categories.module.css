@@ -1,0 +1,19 @@
+.underline:hover {
+    text-decoration: underline;
+    text-decoration-color: purple;
+    text-decoration-thickness: 3px;
+    cursor: pointer;
+}
+
+.hoverLink:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.list {
+    margin: 2%;
+    max-width: 40vw;
+    min-width: 100%;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 12px rgb(29 23 206 / 25%), 0 1px 1px rgb(0 0 0 / 2%);
+}
